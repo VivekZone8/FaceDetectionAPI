@@ -1,0 +1,8 @@
+
+venv/
+faceenv/
+.venv/
+__pycache__/
+.env
+*.pyc
+face_images/
